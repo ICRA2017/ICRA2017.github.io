@@ -8,5 +8,6 @@ Papers are available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentI
 
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/msgd.svg)](https://hub.docker.com/r/icra2017/msgd/)
 
-MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please refer to the related publication below for details.
+MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please refer to the related publication below for details:
 
+[Chao Gao and Robert Harle. **Msgd: Scalable back-end for indoor magnetic field-based graphslam**.](https://ieeexplore.ieee.org/document/7989444/)
