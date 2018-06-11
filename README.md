@@ -1,8 +1,8 @@
 ## Code Repository
 
-You can use the [editor on GitHub](https://github.com/ICRA2017/ICRA2017.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Source code repositories of papers published at [IEEE International Conference on Robotics and Automation, Singapore, May 29 - June 3, 2017](http://www.icra2017.org/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Papers are available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7960754).
 
 ### [MSGD](https://github.com/ICRA2017/MSGD)
 
