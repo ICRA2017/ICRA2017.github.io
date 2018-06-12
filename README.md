@@ -6,7 +6,7 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 
 ## [BPVO](https://github.com/ICRA2017/bpvo)
 
-[![Docker Build Status](https://img.shields.io/docker/build/icra2017/bpvo.svg)](https://hub.docker.com/r/icra2017/bpvo/)
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/bpvo#run-in-docker) [![Docker Build Status](https://img.shields.io/docker/build/icra2017/bpvo.svg)](https://hub.docker.com/r/icra2017/bpvo/)
 
 A library for (semi-dense) real-time visual odometry from stereo data using direct alignment of feature descriptors.
 
@@ -15,7 +15,7 @@ H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low 
 
 ## [crazyswarm](https://github.com/ICRA2017/crazyswarm)
 
-[![Docker Build Status](https://img.shields.io/docker/build/icra2017/crazyswarm.svg)](https://hub.docker.com/r/icra2017/crazyswarm/)
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/crazyswarm#run-in-docker) [![Docker Build Status](https://img.shields.io/docker/build/icra2017/crazyswarm.svg)](https://hub.docker.com/r/icra2017/crazyswarm/)
 
 A Large Nano-Quadcopter Swarm.
 
@@ -31,9 +31,9 @@ Matlab implementation of EKF-SLAM using Lie Group.
 T. Zhang, K. Wu, J. Song, S. Huang and G. Dissanayake, "Convergence and Consistency Analysis for a 3-D Invariant-EKF SLAM",
 [doi: 10.1109/LRA.2017.2651376](https://doi.org/10.1109/LRA.2017.2651376)
 
-## [GPS](https://github.com/ICRA2017/MSGD)
+## [GPS](https://github.com/ICRA2017/gps)
 
-[![Docker Build Status](https://img.shields.io/docker/build/icra2017/gps.svg)](https://hub.docker.com/r/icra2017/gps/)
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/gps#run-in-docker) [![Docker Build Status](https://img.shields.io/docker/build/icra2017/gps.svg)](https://hub.docker.com/r/icra2017/gps/)
 
 This code is a reimplementation of the guided policy search algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work.
 
@@ -42,7 +42,7 @@ W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, "Reset-free guided pol
 
 ## [jps3d](https://github.com/ICRA2017/jps3d)
 
-[![Docker Build Status](https://img.shields.io/docker/build/icra2017/jps3d.svg)](https://hub.docker.com/r/icra2017/jps3d/)
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/jps3d#run-in-docker) [![Docker Build Status](https://img.shields.io/docker/build/icra2017/jps3d.svg)](https://hub.docker.com/r/icra2017/jps3d/)
 
 Jump Point Search for path planning in both 2D and 3D environments.
 
