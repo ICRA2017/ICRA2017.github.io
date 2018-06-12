@@ -19,3 +19,7 @@ MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please re
 This code is a reimplementation of the guided policy search algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work.
 
 [W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, **Reset-free guided policy search: Efficient deep reinforcement learning with stochastic initial states**.](https://ieeexplore.ieee.org/document/7989383/)
+
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
