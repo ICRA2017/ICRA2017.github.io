@@ -24,6 +24,8 @@ J. A. Preiss, W. Honig, G. S. Sukhatme and N. Ayanian, "Crazyswarm: A large nano
 
 ## [EKF-SLAM-on-Manifold](https://github.com/ICRA2017/EKF-SLAM-on-Manifold)
 
+![Matlab logo](Matlab_Logo.png)
+
 Matlab implementation of EKF-SLAM using Lie Group.
 
 T. Zhang, K. Wu, J. Song, S. Huang and G. Dissanayake, "Convergence and Consistency Analysis for a 3-D Invariant-EKF SLAM",
