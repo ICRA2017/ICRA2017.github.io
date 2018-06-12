@@ -1,4 +1,4 @@
-# Code Repository
+# ICRA2017 Code Repository
 
 Source code repositories of papers published at [IEEE International Conference on Robotics and Automation, Singapore, May 29 - June 3, 2017](http://www.icra2017.org/).
 
