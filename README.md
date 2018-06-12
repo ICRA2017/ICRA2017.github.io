@@ -40,6 +40,13 @@ Jump Point Search for path planning in both 2D and 3D environments.
 S. Liu *et al.*, "Planning Dynamically Feasible Trajectories for Quadrotors Using Safe Flight Corridors in 3-D Complex Environments",
 [doi: 10.1109/LRA.2017.2663526](https://doi.org/10.1109/LRA.2017.2663526)
 
+## [LT-Algorithm](https://github.com/ICRA2017/LT-Algorithm)
+
+Matlab implementation of the LT-Algorithm for airflow modeling.
+
+V. H. Bennetts, T. P. Kucner, E. Schaffernicht, P. P. Neumann, H. Fan and A. J. Lilienthal, "Probabilistic Air Flow Modelling Using Turbulent and Laminar Characteristics for Ground and Aerial Robots",
+[doi: 10.1109/LRA.2017.2661803](https://doi.org/10.1109/LRA.2017.2661803)
+
 ## [MSGD](https://github.com/ICRA2017/MSGD)
 
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/msgd.svg)](https://hub.docker.com/r/icra2017/msgd/)
