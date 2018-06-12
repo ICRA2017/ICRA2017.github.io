@@ -92,3 +92,16 @@ Comparison of self-triggered communication and periodic communication for target
 L. Zhou and P. Tokekar, "Active target tracking with self-triggered communications",
 [doi: 10.1109/ICRA.2017.7989244](https://doi.org/10.1109/ICRA.2017.7989244)
 
+# Untested Code
+
+## [PGO-LagInit](https://github.com/ICRA2017/PGO-LagInit)
+
+An approach for PGO initialization through Lagrangian relaxation.
+
+J. Briales and J. Gonzalez-Jimenez, "Initialization of 3D pose graph optimization using Lagrangian duality",
+[doi: 10.1109/ICRA.2017.7989600](https://doi.org/10.1109/ICRA.2017.7989600)
+
+## [smartwatches_apps](https://github.com/ICRA2017/smartwatches_apps)
+
+E. Coronado, J. Villalobos, B. Bruno and F. Mastrogiovanni, "Gesture-based robot control: Design challenges and evaluation with humans",
+[doi: 10.1109/ICRA.2017.7989321](https://doi.org/10.1109/ICRA.2017.7989321)
