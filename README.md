@@ -24,7 +24,7 @@ J. A. Preiss, W. Honig, G. S. Sukhatme and N. Ayanian, "Crazyswarm: A large nano
 
 ## [EKF-SLAM-on-Manifold](https://github.com/ICRA2017/EKF-SLAM-on-Manifold)
 
-![Matlab logo](Matlab_Logo.png)
+[![Matlab logo](Matlab_Logo.png)](https://github.com/ICRA2017/EKF-SLAM-on-Manifold#tests)
 
 Matlab implementation of EKF-SLAM using Lie Group.
 
@@ -50,6 +50,8 @@ S. Liu *et al.*, "Planning Dynamically Feasible Trajectories for Quadrotors Usin
 [doi: 10.1109/LRA.2017.2663526](https://doi.org/10.1109/LRA.2017.2663526)
 
 ## [LT-Algorithm](https://github.com/ICRA2017/LT-Algorithm)
+
+[![Matlab logo](Matlab_Logo.png)](https://github.com/ICRA2017/LT-Algorithm#tests)
 
 Matlab implementation of the LT-Algorithm for airflow modeling.
 
