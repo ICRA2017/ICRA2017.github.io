@@ -46,6 +46,6 @@ S. Liu *et al.*, "Planning Dynamically Feasible Trajectories for Quadrotors Usin
 
 MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please refer to the related publication below for details:
 
-Chao Gao and Robert Harle, "Msgd: Scalable back-end for indoor magnetic field-based graphslam",
+Chao Gao and Robert Harle, "MSGD: Scalable back-end for indoor magnetic field-based GraphSLAM",
 [doi: 10.1109/ICRA.2017.7989444](https://doi.org/10.1109/ICRA.2017.7989444)
 
