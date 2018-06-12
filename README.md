@@ -37,7 +37,8 @@ W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, "Reset-free guided pol
 
 Jump Point Search for path planning in both 2D and 3D environments.
 
-[S. Liu et al., **Planning Dynamically Feasible Trajectories for Quadrotors Using Safe Flight Corridors in 3-D Complex Environments**.](https://ieeexplore.ieee.org/document/7839930/)
+S. Liu *et al.*, "Planning Dynamically Feasible Trajectories for Quadrotors Using Safe Flight Corridors in 3-D Complex Environments",
+[doi: 10.1109/LRA.2017.2663526](https://doi.org/10.1109/LRA.2017.2663526)
 
 ## [MSGD](https://github.com/ICRA2017/MSGD)
 
@@ -45,5 +46,6 @@ Jump Point Search for path planning in both 2D and 3D environments.
 
 MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please refer to the related publication below for details:
 
-[Chao Gao and Robert Harle, **Msgd: Scalable back-end for indoor magnetic field-based graphslam**.](https://ieeexplore.ieee.org/document/7989444/)
+Chao Gao and Robert Harle, "Msgd: Scalable back-end for indoor magnetic field-based graphslam",
+[doi: 10.1109/ICRA.2017.7989444](https://doi.org/10.1109/ICRA.2017.7989444)
 
