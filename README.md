@@ -10,7 +10,7 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 
 A library for (semi-dense) real-time visual odometry from stereo data using direct alignment of feature descriptors.
 
-H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low Light Using Binary Descriptors," in IEEE Robotics and Automation Letters, vol. 2, no. 2, pp. 444-451, April 2017. [doi: 10.1109/LRA.2016.2635686](https://doi.org/document/10.1109/LRA.2016.2635686)
+H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low Light Using Binary Descriptors," in IEEE Robotics and Automation Letters, vol. 2, no. 2, pp. 444-451, April 2017. [doi: 10.1109/LRA.2016.2635686](https://doi.org/10.1109/LRA.2016.2635686)
 
 ## [crazyswarm](https://github.com/ICRA2017/crazyswarm)
 
