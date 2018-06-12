@@ -20,6 +20,14 @@ This code is a reimplementation of the guided policy search algorithm and LQG-ba
 
 [W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, **Reset-free guided policy search: Efficient deep reinforcement learning with stochastic initial states**.](https://ieeexplore.ieee.org/document/7989383/)
 
+## [jps3d](https://github.com/ICRA2017/jps3d)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/jps3d.svg)](https://hub.docker.com/r/icra2017/jps3d/)
+
+Jump Point Search for path planning in both 2D and 3D environments.
+
+[S. Liu et al., **Planning Dynamically Feasible Trajectories for Quadrotors Using Safe Flight Corridors in 3-D Complex Environments**.](https://ieeexplore.ieee.org/document/7839930/)
+
 ## [MSGD](https://github.com/ICRA2017/MSGD)
 
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/msgd.svg)](https://hub.docker.com/r/icra2017/msgd/)
