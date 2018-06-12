@@ -22,6 +22,13 @@ A Large Nano-Quadcopter Swarm.
 J. A. Preiss, W. Honig, G. S. Sukhatme and N. Ayanian, "Crazyswarm: A large nano-quadcopter swarm",
 [doi: 10.1109/ICRA.2017.7989376](https://doi.org/10.1109/ICRA.2017.7989376)
 
+## [EKF-SLAM-on-Manifold](https://github.com/ICRA2017/EKF-SLAM-on-Manifold)
+
+Matlab implementation of EKF-SLAM using Lie Group.
+
+T. Zhang, K. Wu, J. Song, S. Huang and G. Dissanayake, "Convergence and Consistency Analysis for a 3-D Invariant-EKF SLAM",
+[doi: 10.1109/LRA.2017.2651376](https://doi.org/10.1109/LRA.2017.2651376)
+
 ## [GPS](https://github.com/ICRA2017/MSGD)
 
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/gps.svg)](https://hub.docker.com/r/icra2017/gps/)
