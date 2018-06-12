@@ -82,3 +82,13 @@ MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please re
 Chao Gao and Robert Harle, "MSGD: Scalable back-end for indoor magnetic field-based GraphSLAM",
 [doi: 10.1109/ICRA.2017.7989444](https://doi.org/10.1109/ICRA.2017.7989444)
 
+## [Self-triggered-mechanism](https://github.com/ICRA2017/Self-triggered-mechanism)
+
+[![Matlab logo](Matlab_Logo.png)](https://github.com/ICRA2017/Self-triggered-mechanism#tests)
+[![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/Self-triggered-mechanism#tests)
+
+Comparison of self-triggered communication and periodic communication for target tracking involving a group of sensor agents.
+
+L. Zhou and P. Tokekar, "Active target tracking with self-triggered communications",
+[doi: 10.1109/ICRA.2017.7989244](https://doi.org/10.1109/ICRA.2017.7989244)
+
