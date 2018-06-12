@@ -10,7 +10,8 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 
 A library for (semi-dense) real-time visual odometry from stereo data using direct alignment of feature descriptors.
 
-H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low Light Using Binary Descriptors," in *IEEE Robotics and Automation Letters*, vol. 2, no. 2, pp. 444-451, April 2017. [doi: 10.1109/LRA.2016.2635686](https://doi.org/10.1109/LRA.2016.2635686)
+H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low Light Using Binary Descriptors", 
+[doi: 10.1109/LRA.2016.2635686](https://doi.org/10.1109/LRA.2016.2635686)
 
 ## [crazyswarm](https://github.com/ICRA2017/crazyswarm)
 
@@ -18,7 +19,7 @@ H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low 
 
 A Large Nano-Quadcopter Swarm.
 
-J. A. Preiss, W. Honig, G. S. Sukhatme and N. Ayanian, "Crazyswarm: A large nano-quadcopter swarm," 2017 IEEE International Conference on Robotics and Automation (ICRA), Singapore, 2017, pp. 3299-3304.
+J. A. Preiss, W. Honig, G. S. Sukhatme and N. Ayanian, "Crazyswarm: A large nano-quadcopter swarm",
 [doi: 10.1109/ICRA.2017.7989376](https://doi.org/10.1109/ICRA.2017.7989376)
 
 ## [GPS](https://github.com/ICRA2017/MSGD)
@@ -27,7 +28,7 @@ J. A. Preiss, W. Honig, G. S. Sukhatme and N. Ayanian, "Crazyswarm: A large nano
 
 This code is a reimplementation of the guided policy search algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work.
 
-W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, "Reset-free guided policy search: Efficient deep reinforcement learning with stochastic initial states," *2017 IEEE International Conference on Robotics and Automation (ICRA)*, Singapore, 2017, pp. 3373-3380.
+W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, "Reset-free guided policy search: Efficient deep reinforcement learning with stochastic initial states",
 [doi: 10.1109/ICRA.2017.7989383](https://doi.org/10.1109/ICRA.2017.7989383)
 
 ## [jps3d](https://github.com/ICRA2017/jps3d)
