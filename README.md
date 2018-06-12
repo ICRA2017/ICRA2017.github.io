@@ -34,6 +34,14 @@ Implementation of EKF-SLAM using Lie Group.
 T. Zhang, K. Wu, J. Song, S. Huang and G. Dissanayake, "Convergence and Consistency Analysis for a 3-D Invariant-EKF SLAM",
 [doi: 10.1109/LRA.2017.2651376](https://doi.org/10.1109/LRA.2017.2651376)
 
+## [Fast-SeqSLAM](https://github.com/ICRA2017/Fast-SeqSLAM)
+
+[![Matlab logo](Matlab_Logo.png)](https://github.com/ICRA2017/Fast-SeqSLAM#tests) 
+[![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/Fast-SeqSLAM#tests)
+
+S. M. Siam and H. Zhang, "Fast-SeqSLAM: A fast appearance based place recognition algorithm",
+[doi: 10.1109/ICRA.2017.7989671](https://doi.org/10.1109/ICRA.2017.7989671)
+
 ## [GPS](https://github.com/ICRA2017/gps)
 
 [![Docker logo](docker_icon.png)](https://github.com/ICRA2017/gps#run-in-docker)
