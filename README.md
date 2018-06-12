@@ -6,7 +6,8 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 
 ## [BPVO](https://github.com/ICRA2017/bpvo)
 
-[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/bpvo#run-in-docker) [![Docker Build Status](https://img.shields.io/docker/build/icra2017/bpvo.svg)](https://hub.docker.com/r/icra2017/bpvo/)
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/bpvo#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/bpvo.svg)](https://hub.docker.com/r/icra2017/bpvo/)
 
 A library for (semi-dense) real-time visual odometry from stereo data using direct alignment of feature descriptors.
 
@@ -15,7 +16,8 @@ H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low 
 
 ## [crazyswarm](https://github.com/ICRA2017/crazyswarm)
 
-[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/crazyswarm#run-in-docker) [![Docker Build Status](https://img.shields.io/docker/build/icra2017/crazyswarm.svg)](https://hub.docker.com/r/icra2017/crazyswarm/)
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/crazyswarm#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/crazyswarm.svg)](https://hub.docker.com/r/icra2017/crazyswarm/)
 
 A Large Nano-Quadcopter Swarm.
 
@@ -24,16 +26,18 @@ J. A. Preiss, W. Honig, G. S. Sukhatme and N. Ayanian, "Crazyswarm: A large nano
 
 ## [EKF-SLAM-on-Manifold](https://github.com/ICRA2017/EKF-SLAM-on-Manifold)
 
-[![Matlab logo](Matlab_Logo.png) ![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/EKF-SLAM-on-Manifold#tests)
+[![Matlab logo](Matlab_Logo.png)](https://github.com/ICRA2017/EKF-SLAM-on-Manifold#tests) 
+[![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/EKF-SLAM-on-Manifold#tests)
 
-Matlab implementation of EKF-SLAM using Lie Group.
+Implementation of EKF-SLAM using Lie Group.
 
 T. Zhang, K. Wu, J. Song, S. Huang and G. Dissanayake, "Convergence and Consistency Analysis for a 3-D Invariant-EKF SLAM",
 [doi: 10.1109/LRA.2017.2651376](https://doi.org/10.1109/LRA.2017.2651376)
 
 ## [GPS](https://github.com/ICRA2017/gps)
 
-[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/gps#run-in-docker) [![Docker Build Status](https://img.shields.io/docker/build/icra2017/gps.svg)](https://hub.docker.com/r/icra2017/gps/)
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/gps#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/gps.svg)](https://hub.docker.com/r/icra2017/gps/)
 
 This code is a reimplementation of the guided policy search algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work.
 
@@ -42,7 +46,8 @@ W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, "Reset-free guided pol
 
 ## [jps3d](https://github.com/ICRA2017/jps3d)
 
-[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/jps3d#run-in-docker) [![Docker Build Status](https://img.shields.io/docker/build/icra2017/jps3d.svg)](https://hub.docker.com/r/icra2017/jps3d/)
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/jps3d#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/jps3d.svg)](https://hub.docker.com/r/icra2017/jps3d/)
 
 Jump Point Search for path planning in both 2D and 3D environments.
 
@@ -52,15 +57,17 @@ S. Liu *et al.*, "Planning Dynamically Feasible Trajectories for Quadrotors Usin
 ## [LT-Algorithm](https://github.com/ICRA2017/LT-Algorithm)
 
 [![Matlab logo](Matlab_Logo.png)](https://github.com/ICRA2017/LT-Algorithm#tests)
+[![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/LT-Algorithm#tests)
 
-Matlab implementation of the LT-Algorithm for airflow modeling.
+Implementation of the LT-Algorithm for airflow modeling.
 
 V. H. Bennetts, T. P. Kucner, E. Schaffernicht, P. P. Neumann, H. Fan and A. J. Lilienthal, "Probabilistic Air Flow Modelling Using Turbulent and Laminar Characteristics for Ground and Aerial Robots",
 [doi: 10.1109/LRA.2017.2661803](https://doi.org/10.1109/LRA.2017.2661803)
 
 ## [MSGD](https://github.com/ICRA2017/MSGD)
 
-[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/MSGD#run-in-docker) [![Docker Build Status](https://img.shields.io/docker/build/icra2017/msgd.svg)](https://hub.docker.com/r/icra2017/msgd/)
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/MSGD#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/msgd.svg)](https://hub.docker.com/r/icra2017/msgd/)
 
 MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please refer to the related publication below for details:
 
