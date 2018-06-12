@@ -12,8 +12,6 @@ MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please re
 
 [Chao Gao and Robert Harle, **Msgd: Scalable back-end for indoor magnetic field-based graphslam**.](https://ieeexplore.ieee.org/document/7989444/)
 
----
-
 ## [GPS](https://github.com/ICRA2017/MSGD)
 
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/gps.svg)](https://hub.docker.com/r/icra2017/gps/)
