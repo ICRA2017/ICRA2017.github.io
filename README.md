@@ -60,7 +60,7 @@ V. H. Bennetts, T. P. Kucner, E. Schaffernicht, P. P. Neumann, H. Fan and A. J. 
 
 ## [MSGD](https://github.com/ICRA2017/MSGD)
 
-[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/MSGD#run-in-docker)[![Docker Build Status](https://img.shields.io/docker/build/icra2017/msgd.svg)](https://hub.docker.com/r/icra2017/msgd/)
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/MSGD#run-in-docker) [![Docker Build Status](https://img.shields.io/docker/build/icra2017/msgd.svg)](https://hub.docker.com/r/icra2017/msgd/)
 
 MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please refer to the related publication below for details:
 
