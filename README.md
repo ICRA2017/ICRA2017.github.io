@@ -4,6 +4,14 @@ Source code repositories of papers published at [IEEE International Conference o
 
 Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7960754).
 
+## [autonomy_hri](https://github.com/ICRA2017/autonomy_hri)
+
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/autonomy_hri#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/autonomy_hri.svg)](https://hub.docker.com/r/icra2017/autonomy_hri/)
+
+S. Pourmehr, J. Thomas, J. Bruce, J. Wawerla and R. Vaughan, "Robust sensor fusion for finding HRI partners in a crowd",
+[doi: 10.1109/ICRA.2017.7989373](https://doi.org/10.1109/ICRA.2017.7989373)
+
 ## [BPVO](https://github.com/ICRA2017/bpvo)
 
 [![Docker logo](docker_icon.png)](https://github.com/ICRA2017/bpvo#run-in-docker)
