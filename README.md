@@ -60,6 +60,16 @@ This code is a reimplementation of the guided policy search algorithm and LQG-ba
 W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, "Reset-free guided policy search: Efficient deep reinforcement learning with stochastic initial states",
 [doi: 10.1109/ICRA.2017.7989383](https://doi.org/10.1109/ICRA.2017.7989383)
 
+## [Incremental_DuDe_ROS](https://github.com/ICRA2017/Incremental_DuDe_ROS)
+
+[![Docker logo](docker_icon.png)](https://github.com/ICRA2017/Incremental_DuDe_ROS#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/incremental_dude_ros.svg)](https://hub.docker.com/r/icra2017/incremental_dude_ros/)
+
+Implementation of the Incremental Contour-Based Topological Segmentation in structured or unstructured environments. 
+
+L. Fermin-Leon, J. Neira and J. A. Castellanos, "Incremental contour-based topological segmentation for robot exploration",
+[doi: 10.1109/ICRA.2017.7989297](https://doi.org/10.1109/ICRA.2017.7989297)
+
 ## [jps3d](https://github.com/ICRA2017/jps3d)
 
 [![Docker logo](docker_icon.png)](https://github.com/ICRA2017/jps3d#run-in-docker)
