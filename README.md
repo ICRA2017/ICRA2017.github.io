@@ -130,9 +130,9 @@ Comparison of self-triggered communication and periodic communication for target
 L. Zhou and P. Tokekar, "Active target tracking with self-triggered communications",
 [doi: 10.1109/ICRA.2017.7989244](https://doi.org/10.1109/ICRA.2017.7989244)
 
-# Untested Code
-
 ## [smartwatches_apps](https://github.com/ICRA2017/smartwatches_apps)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/smartwatches_apps.svg)](https://hub.docker.com/r/icra2017/smartwatches_apps/)
 
 E. Coronado, J. Villalobos, B. Bruno and F. Mastrogiovanni, "Gesture-based robot control: Design challenges and evaluation with humans",
 [doi: 10.1109/ICRA.2017.7989321](https://doi.org/10.1109/ICRA.2017.7989321)
