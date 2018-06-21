@@ -167,3 +167,13 @@ L. Zhou and P. Tokekar, "Active target tracking with self-triggered communicatio
 
 E. Coronado, J. Villalobos, B. Bruno and F. Mastrogiovanni, "Gesture-based robot control: Design challenges and evaluation with humans",
 [doi: 10.1109/ICRA.2017.7989321](https://doi.org/10.1109/ICRA.2017.7989321)
+
+## [superquadric-grasping](https://github.com/ICRA2017/superquadric-grasping)
+
+[![Docker logo](docker_not.png "Docker not available")](https://github.com/ICRA2017/superquadric-grasping#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/superquadric-grasping.svg)](https://hub.docker.com/r/icra2017/superquadric-grasping/)
+
+Framework for computing a good grasping pose, by exploiting superquadric models for the object and the robot hand.
+
+G. Vezzani, U. Pattacini and L. Natale, "A grasping approach based on superquadric models",
+[doi: 10.1109/ICRA.2017.7989187](https://doi.org/10.1109/ICRA.2017.7989187)
