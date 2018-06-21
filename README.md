@@ -6,7 +6,7 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 
 ## [autonomy_hri](https://github.com/ICRA2017/autonomy_hri)
 
-[![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/autonomy_hri#run-in-docker)
+[![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/autonomy_hri#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/autonomy_hri.svg)](https://hub.docker.com/r/icra2017/autonomy_hri/)
 
 S. Pourmehr, J. Thomas, J. Bruce, J. Wawerla and R. Vaughan, "Robust sensor fusion for finding HRI partners in a crowd",
