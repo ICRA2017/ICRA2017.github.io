@@ -78,6 +78,14 @@ This code is a reimplementation of the guided policy search algorithm and LQG-ba
 W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, "Reset-free guided policy search: Efficient deep reinforcement learning with stochastic initial states",
 [doi: 10.1109/ICRA.2017.7989383](https://doi.org/10.1109/ICRA.2017.7989383)
 
+## [human_robot_collaboration](https://github.com/ICRA2017/human_robot_collaboration)
+
+[![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/human_robot_collaboration#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/human_robot_collaboration.svg)](https://hub.docker.com/r/icra2017/human_robot_collaboration/)
+
+A. Roncone, O. Mangin and B. Scassellati, "Transparent role assignment and task allocation in human robot collaboration",
+[doi: 10.1109/ICRA.2017.7989122](https://doi.org/10.1109/ICRA.2017.7989122)
+
 ## [Incremental_DuDe_ROS](https://github.com/ICRA2017/Incremental_DuDe_ROS)
 
 [![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/Incremental_DuDe_ROS#run-in-docker)
