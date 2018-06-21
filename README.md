@@ -132,6 +132,7 @@ L. Zhou and P. Tokekar, "Active target tracking with self-triggered communicatio
 
 ## [smartwatches_apps](https://github.com/ICRA2017/smartwatches_apps)
 
+[![Docker logo](docker_not.png "Docker not available")](https://github.com/ICRA2017/smartwatches_apps#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/smartwatches_apps.svg)](https://hub.docker.com/r/icra2017/smartwatches_apps/)
 
 E. Coronado, J. Villalobos, B. Bruno and F. Mastrogiovanni, "Gesture-based robot control: Design challenges and evaluation with humans",
