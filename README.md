@@ -27,6 +27,8 @@ H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low 
 [![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/costar_stack#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/costar_stack.svg)](https://hub.docker.com/r/icra2017/costar_stack/)
 
+Collaborative System for Task Automation and Recognition.
+
 C. Paxton, A. Hundt, F. Jonathan, K. Guerin and G. D. Hager, "CoSTAR: Instructing collaborative robots with behavior trees and vision",
 [doi: 10.1109/ICRA.2017.7989070](https://doi.org/10.1109/ICRA.2017.7989070)
 
