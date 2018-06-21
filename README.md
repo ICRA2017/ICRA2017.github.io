@@ -22,6 +22,14 @@ A library for (semi-dense) real-time visual odometry from stereo data using dire
 H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low Light Using Binary Descriptors", 
 [doi: 10.1109/LRA.2016.2635686](https://doi.org/10.1109/LRA.2016.2635686)
 
+## [costar_stack](https://github.com/ICRA2017/costar_stack)
+
+[![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/costar_stack#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/costar_stack.svg)](https://hub.docker.com/r/icra2017/costar_stack/)
+
+C. Paxton, A. Hundt, F. Jonathan, K. Guerin and G. D. Hager, "CoSTAR: Instructing collaborative robots with behavior trees and vision",
+[doi: 10.1109/ICRA.2017.7989070](https://doi.org/10.1109/ICRA.2017.7989070)
+
 ## [crazyswarm](https://github.com/ICRA2017/crazyswarm)
 
 [![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/crazyswarm#run-in-docker)
