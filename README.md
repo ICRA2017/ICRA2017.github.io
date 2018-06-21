@@ -6,7 +6,7 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 
 ## [autonomy_hri](https://github.com/ICRA2017/autonomy_hri)
 
-[![Docker logo](docker_run.png "Run in Docker")](https://github.com/ICRA2017/autonomy_hri#run-in-docker)
+[![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/autonomy_hri#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/autonomy_hri.svg)](https://hub.docker.com/r/icra2017/autonomy_hri/)
 
 S. Pourmehr, J. Thomas, J. Bruce, J. Wawerla and R. Vaughan, "Robust sensor fusion for finding HRI partners in a crowd",
@@ -14,7 +14,7 @@ S. Pourmehr, J. Thomas, J. Bruce, J. Wawerla and R. Vaughan, "Robust sensor fusi
 
 ## [BPVO](https://github.com/ICRA2017/bpvo)
 
-[![Docker logo](docker_run.png "Run in Docker")](https://github.com/ICRA2017/bpvo#run-in-docker)
+[![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/bpvo#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/bpvo.svg)](https://hub.docker.com/r/icra2017/bpvo/)
 
 A library for (semi-dense) real-time visual odometry from stereo data using direct alignment of feature descriptors.
@@ -24,7 +24,7 @@ H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low 
 
 ## [crazyswarm](https://github.com/ICRA2017/crazyswarm)
 
-[![Docker logo](docker_run.png "Run in Docker")](https://github.com/ICRA2017/crazyswarm#run-in-docker)
+[![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/crazyswarm#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/crazyswarm.svg)](https://hub.docker.com/r/icra2017/crazyswarm/)
 
 A Large Nano-Quadcopter Swarm.
@@ -52,7 +52,7 @@ S. M. Siam and H. Zhang, "Fast-SeqSLAM: A fast appearance based place recognitio
 
 ## [GPS](https://github.com/ICRA2017/gps)
 
-[![Docker logo](docker_run.png "Run in Docker")](https://github.com/ICRA2017/gps#run-in-docker)
+[![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/gps#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/gps.svg)](https://hub.docker.com/r/icra2017/gps/)
 
 This code is a reimplementation of the guided policy search algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work.
@@ -62,7 +62,7 @@ W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, "Reset-free guided pol
 
 ## [Incremental_DuDe_ROS](https://github.com/ICRA2017/Incremental_DuDe_ROS)
 
-[![Docker logo](docker_run.png "Run in Docker")](https://github.com/ICRA2017/Incremental_DuDe_ROS#run-in-docker)
+[![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/Incremental_DuDe_ROS#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/incremental_dude_ros.svg)](https://hub.docker.com/r/icra2017/incremental_dude_ros/)
 
 Implementation of the Incremental Contour-Based Topological Segmentation in structured or unstructured environments. 
@@ -72,7 +72,7 @@ L. Fermin-Leon, J. Neira and J. A. Castellanos, "Incremental contour-based topol
 
 ## [jps3d](https://github.com/ICRA2017/jps3d)
 
-[![Docker logo](docker_run.png "Run in Docker")](https://github.com/ICRA2017/jps3d#run-in-docker)
+[![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/jps3d#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/jps3d.svg)](https://hub.docker.com/r/icra2017/jps3d/)
 
 Jump Point Search for path planning in both 2D and 3D environments.
@@ -92,7 +92,7 @@ V. H. Bennetts, T. P. Kucner, E. Schaffernicht, P. P. Neumann, H. Fan and A. J. 
 
 ## [lwAnn](https://github.com/ICRA2017/lwAnn)
 
-[![Docker logo](docker_run.png "Run in Docker")](https://github.com/ICRA2017/lwAnn#run-in-docker)
+[![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/lwAnn#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/lwann.svg)](https://hub.docker.com/r/icra2017/lwann/)
 
 lwAnn is a basic image annotation tool intended to make it easy and quick to annotate scenes. 
@@ -102,7 +102,7 @@ J. Young, L. Kunze, V. Basile, E. Cabrio, N. Hawes and B. Caputo, "Semantic web-
 
 ## [MSGD](https://github.com/ICRA2017/MSGD)
 
-[![Docker logo](docker_run.png "Run in Docker")](https://github.com/ICRA2017/MSGD#run-in-docker)
+[![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/MSGD#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/msgd.svg)](https://hub.docker.com/r/icra2017/msgd/)
 
 MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please refer to the related publication below for details:
