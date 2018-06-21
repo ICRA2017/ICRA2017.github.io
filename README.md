@@ -32,6 +32,14 @@ A Large Nano-Quadcopter Swarm.
 J. A. Preiss, W. Honig, G. S. Sukhatme and N. Ayanian, "Crazyswarm: A large nano-quadcopter swarm",
 [doi: 10.1109/ICRA.2017.7989376](https://doi.org/10.1109/ICRA.2017.7989376)
 
+## [delta-execution-models](https://github.com/ICRA2017/delta-execution-models)
+
+[![Docker logo](docker_not.png "Docker not available")](https://github.com/ICRA2017/delta-execution-models#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/delta-execution-models.svg)](https://hub.docker.com/r/icra2017/delta-execution-models/)
+
+A. Mitrevski, A. Kuestenmacher, S. Thoduka and P. G. Plöger, "Improving the reliability of service robots in the presence of external faults by learning action execution models",
+[doi: 10.1109/ICRA.2017.7989489](https://doi.org/10.1109/ICRA.2017.7989489)
+
 ## [EKF-SLAM-on-Manifold](https://github.com/ICRA2017/EKF-SLAM-on-Manifold)
 
 [![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/EKF-SLAM-on-Manifold#tests) 
