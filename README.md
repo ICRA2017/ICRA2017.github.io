@@ -9,6 +9,8 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 [![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/autonomy_hri#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/autonomy_hri.svg)](https://hub.docker.com/r/icra2017/autonomy_hri/)
 
+AutonomyLab's HRI Repository.
+
 S. Pourmehr, J. Thomas, J. Bruce, J. Wawerla and R. Vaughan, "Robust sensor fusion for finding HRI partners in a crowd",
 [doi: 10.1109/ICRA.2017.7989373](https://doi.org/10.1109/ICRA.2017.7989373)
 
@@ -82,6 +84,8 @@ W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, "Reset-free guided pol
 
 [![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/human_robot_collaboration#run-in-docker)
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/human_robot_collaboration.svg)](https://hub.docker.com/r/icra2017/human_robot_collaboration/)
+
+Repository that hosts software libraries and ROS packages for reproducing Human-Robot Collaboration experiments performed at the Social Robotics Lab in Yale University.
 
 A. Roncone, O. Mangin and B. Scassellati, "Transparent role assignment and task allocation in human robot collaboration",
 [doi: 10.1109/ICRA.2017.7989122](https://doi.org/10.1109/ICRA.2017.7989122)
