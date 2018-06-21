@@ -110,6 +110,16 @@ MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please re
 Chao Gao and Robert Harle, "MSGD: Scalable back-end for indoor magnetic field-based GraphSLAM",
 [doi: 10.1109/ICRA.2017.7989444](https://doi.org/10.1109/ICRA.2017.7989444)
 
+## [PGO-LagInit](https://github.com/ICRA2017/PGO-LagInit)
+
+[![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/PGO-LagInit#tests)
+[![untested](https://img.shields.io/badge/matlab-untested-brightred.svg)](https://github.com/ICRA2017/PGO-LagInit#tests)
+
+An approach for PGO initialization through Lagrangian relaxation.
+
+J. Briales and J. Gonzalez-Jimenez, "Initialization of 3D pose graph optimization using Lagrangian duality",
+[doi: 10.1109/ICRA.2017.7989600](https://doi.org/10.1109/ICRA.2017.7989600)
+
 ## [Self-triggered-mechanism](https://github.com/ICRA2017/Self-triggered-mechanism)
 
 [![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/Self-triggered-mechanism#tests)
@@ -121,13 +131,6 @@ L. Zhou and P. Tokekar, "Active target tracking with self-triggered communicatio
 [doi: 10.1109/ICRA.2017.7989244](https://doi.org/10.1109/ICRA.2017.7989244)
 
 # Untested Code
-
-## [PGO-LagInit](https://github.com/ICRA2017/PGO-LagInit)
-
-An approach for PGO initialization through Lagrangian relaxation.
-
-J. Briales and J. Gonzalez-Jimenez, "Initialization of 3D pose graph optimization using Lagrangian duality",
-[doi: 10.1109/ICRA.2017.7989600](https://doi.org/10.1109/ICRA.2017.7989600)
 
 ## [smartwatches_apps](https://github.com/ICRA2017/smartwatches_apps)
 
