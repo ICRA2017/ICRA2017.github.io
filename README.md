@@ -229,11 +229,17 @@ Real-time SLAM library for sound sources mapping.
 D. Su, T. Vidal-Calleja and J. V. Miro, "Towards real-time 3D sound sources mapping with linear microphone arrays",
 [doi: 10.1109/ICRA.2017.7989196](https://doi.org/10.1109/ICRA.2017.7989196)
 
+## [sun-bcnn](https://github.com/ICRA2017/sun-bcnn)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/sun-bcnn.svg)](https://hub.docker.com/r/icra2017/sun-bcnn/)
+
+Bayesian Convolutional Neural Network to infer Sun Direction from a single RGB image.
+
+V. Peretroukhin, L. Clement and J. Kelly, "Reducing drift in visual odometry by inferring sun direction using a Bayesian Convolutional Neural Network",
+[doi: 10.1109/ICRA.2017.7989235](https://doi.org/10.1109/ICRA.2017.7989235)
+
 ## [superquadric-grasping](https://github.com/ICRA2017/superquadric-grasping)
 
-<!---
-[![Docker logo](docker_not.png "Docker not available")](https://github.com/ICRA2017/superquadric-grasping#run-in-docker)
--->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/superquadric-grasping.svg)](https://hub.docker.com/r/icra2017/superquadric-grasping/)
 
 Framework for computing a good grasping pose, by exploiting superquadric models for the object and the robot hand.
