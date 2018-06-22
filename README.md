@@ -6,7 +6,9 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 
 ## [autonomy_hri](https://github.com/ICRA2017/autonomy_hri)
 
+<!---
 [![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/autonomy_hri#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/autonomy_hri.svg)](https://hub.docker.com/r/icra2017/autonomy_hri/)
 
 AutonomyLab's HRI Repository.
@@ -29,7 +31,9 @@ H. Alismail, M. Kaess, B. Browning and S. Lucey, "Direct Visual Odometry in Low 
 
 ## [costar_stack](https://github.com/ICRA2017/costar_stack)
 
+<!---
 [![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/costar_stack#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/costar_stack.svg)](https://hub.docker.com/r/icra2017/costar_stack/)
 
 Collaborative System for Task Automation and Recognition.
@@ -39,8 +43,11 @@ C. Paxton, A. Hundt, F. Jonathan, K. Guerin and G. D. Hager, "CoSTAR: Instructin
 
 ## [crazyswarm](https://github.com/ICRA2017/crazyswarm)
 
+<!---
 [![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/crazyswarm#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/crazyswarm.svg)](https://hub.docker.com/r/icra2017/crazyswarm/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/crazyswarm#run-in-docker)
 
 A Large Nano-Quadcopter Swarm.
 
@@ -49,7 +56,9 @@ J. A. Preiss, W. Honig, G. S. Sukhatme and N. Ayanian, "Crazyswarm: A large nano
 
 ## [delta-execution-models](https://github.com/ICRA2017/delta-execution-models)
 
+<!---
 [![Docker logo](docker_not.png "Docker not available")](https://github.com/ICRA2017/delta-execution-models#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/delta-execution-models.svg)](https://hub.docker.com/r/icra2017/delta-execution-models/)
 
 A. Mitrevski, A. Kuestenmacher, S. Thoduka and P. G. Plöger, "Improving the reliability of service robots in the presence of external faults by learning action execution models",
@@ -57,7 +66,9 @@ A. Mitrevski, A. Kuestenmacher, S. Thoduka and P. G. Plöger, "Improving the rel
 
 ## [driving-in-the-matrix](https://github.com/ICRA2017/driving-in-the-matrix)
 
+<!---
 [![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/driving-in-the-matrix#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/driving-in-the-matrix.svg)](https://hub.docker.com/r/icra2017/driving-in-the-matrix/)
 
 M. Johnson-Roberson, C. Barto, R. Mehta, S. N. Sridhar, K. Rosaen and R. Vasudevan, "Driving in the Matrix: Can virtual worlds replace human-generated annotations for real world tasks?",
@@ -65,7 +76,9 @@ M. Johnson-Roberson, C. Barto, R. Mehta, S. N. Sridhar, K. Rosaen and R. Vasudev
 
 ## [EKF-SLAM-on-Manifold](https://github.com/ICRA2017/EKF-SLAM-on-Manifold)
 
+<!---
 [![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/EKF-SLAM-on-Manifold#tests) 
+-->
 [![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/EKF-SLAM-on-Manifold#tests)
 
 Implementation of EKF-SLAM using Lie Group.
@@ -75,7 +88,9 @@ T. Zhang, K. Wu, J. Song, S. Huang and G. Dissanayake, "Convergence and Consiste
 
 ## [Fast-SeqSLAM](https://github.com/ICRA2017/Fast-SeqSLAM)
 
+<!---
 [![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/Fast-SeqSLAM#tests) 
+-->
 [![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/Fast-SeqSLAM#tests)
 
 S. M. Siam and H. Zhang, "Fast-SeqSLAM: A fast appearance based place recognition algorithm",
@@ -83,8 +98,11 @@ S. M. Siam and H. Zhang, "Fast-SeqSLAM: A fast appearance based place recognitio
 
 ## [GPS](https://github.com/ICRA2017/gps)
 
+<!---
 [![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/gps#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/gps.svg)](https://hub.docker.com/r/icra2017/gps/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/gps#run-in-docker)
 
 This code is a reimplementation of the guided policy search algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work.
 
@@ -93,7 +111,9 @@ W. Montgomery, A. Ajay, C. Finn, P. Abbeel and S. Levine, "Reset-free guided pol
 
 ## [human_robot_collaboration](https://github.com/ICRA2017/human_robot_collaboration)
 
+<!---
 [![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/human_robot_collaboration#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/human_robot_collaboration.svg)](https://hub.docker.com/r/icra2017/human_robot_collaboration/)
 
 Repository that hosts software libraries and ROS packages for reproducing Human-Robot Collaboration experiments performed at the Social Robotics Lab in Yale University.
@@ -103,8 +123,11 @@ A. Roncone, O. Mangin and B. Scassellati, "Transparent role assignment and task 
 
 ## [Incremental_DuDe_ROS](https://github.com/ICRA2017/Incremental_DuDe_ROS)
 
+<!---
 [![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/Incremental_DuDe_ROS#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/incremental_dude_ros.svg)](https://hub.docker.com/r/icra2017/incremental_dude_ros/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/Incremental_DuDe_ROS#run-in-docker)
 
 Implementation of the Incremental Contour-Based Topological Segmentation in structured or unstructured environments. 
 
@@ -113,8 +136,11 @@ L. Fermin-Leon, J. Neira and J. A. Castellanos, "Incremental contour-based topol
 
 ## [jps3d](https://github.com/ICRA2017/jps3d)
 
+<!---
 [![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/jps3d#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/jps3d.svg)](https://hub.docker.com/r/icra2017/jps3d/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/jps3d#run-in-docker)
 
 Jump Point Search for path planning in both 2D and 3D environments.
 
@@ -123,7 +149,9 @@ S. Liu *et al.*, "Planning Dynamically Feasible Trajectories for Quadrotors Usin
 
 ## [LT-Algorithm](https://github.com/ICRA2017/LT-Algorithm)
 
+<!---
 [![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/LT-Algorithm#tests)
+-->
 [![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/LT-Algorithm#tests)
 
 Implementation of the LT-Algorithm for airflow modeling.
@@ -133,8 +161,11 @@ V. H. Bennetts, T. P. Kucner, E. Schaffernicht, P. P. Neumann, H. Fan and A. J. 
 
 ## [lwAnn](https://github.com/ICRA2017/lwAnn)
 
+<!---
 [![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/lwAnn#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/lwann.svg)](https://hub.docker.com/r/icra2017/lwann/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/lwann#run-in-docker)
 
 lwAnn is a basic image annotation tool intended to make it easy and quick to annotate scenes. 
 
@@ -143,8 +174,11 @@ J. Young, L. Kunze, V. Basile, E. Cabrio, N. Hawes and B. Caputo, "Semantic web-
 
 ## [MSGD](https://github.com/ICRA2017/MSGD)
 
+<!---
 [![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/MSGD#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/msgd.svg)](https://hub.docker.com/r/icra2017/msgd/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/msgd#run-in-docker)
 
 MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please refer to the related publication below for details:
 
@@ -153,7 +187,9 @@ Chao Gao and Robert Harle, "MSGD: Scalable back-end for indoor magnetic field-ba
 
 ## [PGO-LagInit](https://github.com/ICRA2017/PGO-LagInit)
 
+<!---
 [![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/PGO-LagInit#tests)
+-->
 [![untested](https://img.shields.io/badge/matlab-untested-brightred.svg)](https://github.com/ICRA2017/PGO-LagInit#tests)
 
 An approach for PGO initialization through Lagrangian relaxation.
@@ -163,7 +199,9 @@ J. Briales and J. Gonzalez-Jimenez, "Initialization of 3D pose graph optimizatio
 
 ## [Self-triggered-mechanism](https://github.com/ICRA2017/Self-triggered-mechanism)
 
+<!---
 [![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/Self-triggered-mechanism#tests)
+-->
 [![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/Self-triggered-mechanism#tests)
 
 Comparison of self-triggered communication and periodic communication for target tracking involving a group of sensor agents.
@@ -173,7 +211,9 @@ L. Zhou and P. Tokekar, "Active target tracking with self-triggered communicatio
 
 ## [smartwatches_apps](https://github.com/ICRA2017/smartwatches_apps)
 
+<!---
 [![Docker logo](docker_not.png "Docker not available")](https://github.com/ICRA2017/smartwatches_apps#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/smartwatches_apps.svg)](https://hub.docker.com/r/icra2017/smartwatches_apps/)
 
 E. Coronado, J. Villalobos, B. Bruno and F. Mastrogiovanni, "Gesture-based robot control: Design challenges and evaluation with humans",
@@ -181,7 +221,9 @@ E. Coronado, J. Villalobos, B. Bruno and F. Mastrogiovanni, "Gesture-based robot
 
 ## [superquadric-grasping](https://github.com/ICRA2017/superquadric-grasping)
 
+<!---
 [![Docker logo](docker_not.png "Docker not available")](https://github.com/ICRA2017/superquadric-grasping#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/superquadric-grasping.svg)](https://hub.docker.com/r/icra2017/superquadric-grasping/)
 
 Framework for computing a good grasping pose, by exploiting superquadric models for the object and the robot hand.
