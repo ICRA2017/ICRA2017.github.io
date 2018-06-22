@@ -219,6 +219,16 @@ L. Zhou and P. Tokekar, "Active target tracking with self-triggered communicatio
 E. Coronado, J. Villalobos, B. Bruno and F. Mastrogiovanni, "Gesture-based robot control: Design challenges and evaluation with humans",
 [doi: 10.1109/ICRA.2017.7989321](https://doi.org/10.1109/ICRA.2017.7989321)
 
+## [SSM_LinearArray](https://github.com/ICRA2017/SSM_LinearArray)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/ssm_lineararray.svg)](https://hub.docker.com/r/icra2017/ssm_lineararray/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/SSM_LinearArray#run-in-docker)
+
+Real-time SLAM library for sound sources mapping.
+
+D. Su, T. Vidal-Calleja and J. V. Miro, "Towards real-time 3D sound sources mapping with linear microphone arrays",
+[doi: 10.1109/ICRA.2017.7989196](https://doi.org/10.1109/ICRA.2017.7989196)
+
 ## [superquadric-grasping](https://github.com/ICRA2017/superquadric-grasping)
 
 <!---
