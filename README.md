@@ -16,8 +16,11 @@ S. Pourmehr, J. Thomas, J. Bruce, J. Wawerla and R. Vaughan, "Robust sensor fusi
 
 ## [BPVO](https://github.com/ICRA2017/bpvo)
 
+<!---
 [![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/bpvo#run-in-docker)
+-->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/bpvo.svg)](https://hub.docker.com/r/icra2017/bpvo/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/bpvo#run-in-docker)
 
 A library for (semi-dense) real-time visual odometry from stereo data using direct alignment of feature descriptors.
 
