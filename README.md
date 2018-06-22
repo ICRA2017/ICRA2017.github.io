@@ -4,11 +4,17 @@ Source code repositories of papers published at [IEEE International Conference o
 
 Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7960754).
 
+## [atom_mapping](https://github.com/ICRA2017/atom_mapping)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/atom_mapping.svg)](https://hub.docker.com/r/icra2017/atom_mapping/)
+
+A novel form of 3D mapping, intended for use in real-time robot navigation and planning.
+
+D. Fridovich-Keil, E. Nelson and A. Zakhor, "AtomMap: A probabilistic amorphous 3D map representation for robotics and surface reconstruction",
+[doi: 10.1109/ICRA.2017.7989355](https://doi.org/10.1109/ICRA.2017.7989355)
+
 ## [autonomy_hri](https://github.com/ICRA2017/autonomy_hri)
 
-<!---
-[![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/autonomy_hri#run-in-docker)
--->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/autonomy_hri.svg)](https://hub.docker.com/r/icra2017/autonomy_hri/)
 
 AutonomyLab's HRI Repository.
