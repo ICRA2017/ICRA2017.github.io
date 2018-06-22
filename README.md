@@ -180,9 +180,6 @@ J. Young, L. Kunze, V. Basile, E. Cabrio, N. Hawes and B. Caputo, "Semantic web-
 
 ## [MSGD](https://github.com/ICRA2017/MSGD)
 
-<!---
-[![Docker logo](docker_run_small.png "Run in Docker")](https://github.com/ICRA2017/MSGD#run-in-docker)
--->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/msgd.svg)](https://hub.docker.com/r/icra2017/msgd/)
 [![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/msgd#run-in-docker)
 
@@ -202,6 +199,15 @@ An approach for PGO initialization through Lagrangian relaxation.
 
 J. Briales and J. Gonzalez-Jimenez, "Initialization of 3D pose graph optimization using Lagrangian duality",
 [doi: 10.1109/ICRA.2017.7989600](https://doi.org/10.1109/ICRA.2017.7989600)
+
+## [PUMP](https://github.com/ICRA2017/PUMP)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/pump.svg)](https://hub.docker.com/r/icra2017/pump/)
+
+Parallel uncertainty-aware multiobjective planning algorithm.
+
+B. Ichter, E. Schmerling, A. a. Agha-mohammadi and M. Pavone, "Real-time stochastic kinodynamic motion planning via multiobjective search on GPUs",
+[doi: 10.1109/ICRA.2017.7989585](https://doi.org/10.1109/ICRA.2017.7989585)
 
 ## [Self-triggered-mechanism](https://github.com/ICRA2017/Self-triggered-mechanism)
 
