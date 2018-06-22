@@ -203,6 +203,7 @@ J. Briales and J. Gonzalez-Jimenez, "Initialization of 3D pose graph optimizatio
 ## [PUMP](https://github.com/ICRA2017/PUMP)
 
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/pump.svg)](https://hub.docker.com/r/icra2017/pump/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/PUMP#run-in-docker)
 
 Parallel uncertainty-aware multiobjective planning algorithm.
 
