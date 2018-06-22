@@ -261,3 +261,10 @@ Framework for computing a good grasping pose, by exploiting superquadric models 
 
 G. Vezzani, U. Pattacini and L. Natale, "A grasping approach based on superquadric models",
 [doi: 10.1109/ICRA.2017.7989187](https://doi.org/10.1109/ICRA.2017.7989187)
+
+## [team_acrv_2016](https://github.com/ICRA2017/team_acrv_2016)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/team_acrv_2016.svg)](https://hub.docker.com/r/icra2017/team_acrv_2016/)
+
+J. Leitner et al., "The ACRV picking benchmark: A robotic shelf picking benchmark to foster reproducible research",
+[doi: 10.1109/ICRA.2017.7989545](https://doi.org/10.1109/ICRA.2017.7989545)
