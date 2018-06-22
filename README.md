@@ -52,6 +52,14 @@ J. A. Preiss, W. Honig, G. S. Sukhatme and N. Ayanian, "Crazyswarm: A large nano
 A. Mitrevski, A. Kuestenmacher, S. Thoduka and P. G. Plöger, "Improving the reliability of service robots in the presence of external faults by learning action execution models",
 [doi: 10.1109/ICRA.2017.7989489](https://doi.org/10.1109/ICRA.2017.7989489)
 
+## [driving-in-the-matrix](https://github.com/ICRA2017/driving-in-the-matrix)
+
+[![Docker logo](docker_not.png "Not running in Docker")](https://github.com/ICRA2017/driving-in-the-matrix#run-in-docker)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/driving-in-the-matrix.svg)](https://hub.docker.com/r/icra2017/driving-in-the-matrix/)
+
+M. Johnson-Roberson, C. Barto, R. Mehta, S. N. Sridhar, K. Rosaen and R. Vasudevan, "Driving in the Matrix: Can virtual worlds replace human-generated annotations for real world tasks?",
+[doi: 10.1109/ICRA.2017.7989092](https://doi.org/10.1109/ICRA.2017.7989092)
+
 ## [EKF-SLAM-on-Manifold](https://github.com/ICRA2017/EKF-SLAM-on-Manifold)
 
 [![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/EKF-SLAM-on-Manifold#tests) 
