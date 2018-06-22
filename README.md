@@ -209,6 +209,15 @@ Comparison of self-triggered communication and periodic communication for target
 L. Zhou and P. Tokekar, "Active target tracking with self-triggered communications",
 [doi: 10.1109/ICRA.2017.7989244](https://doi.org/10.1109/ICRA.2017.7989244)
 
+## [skimap_ros](https://github.com/ICRA2017/skimap_ros)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/skimap_ros.svg)](https://hub.docker.com/r/icra2017/skimap_ros/)
+
+An efficient mapping framework for robot navigation.
+
+D. De Gregorio and L. Di Stefano, "SkiMap: An efficient mapping framework for robot navigation",
+[doi: 10.1109/ICRA.2017.7989299](https://doi.org/10.1109/ICRA.2017.7989299)
+
 ## [smartwatches_apps](https://github.com/ICRA2017/smartwatches_apps)
 
 <!---
