@@ -210,11 +210,17 @@ Parallel uncertainty-aware multiobjective planning algorithm.
 B. Ichter, E. Schmerling, A. a. Agha-mohammadi and M. Pavone, "Real-time stochastic kinodynamic motion planning via multiobjective search on GPUs",
 [doi: 10.1109/ICRA.2017.7989585](https://doi.org/10.1109/ICRA.2017.7989585)
 
+## [rrd_slam](https://github.com/ICRA2017/rrd_slam)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/rrd_slam.svg)](https://hub.docker.com/r/icra2017/rrd_slam/)
+
+Direct SLAM for Rolling-Shutter Cameras.
+
+J. H. Kim, Y. Latif and I. Reid, "RRD-SLAM: Radial-distorted rolling-shutter direct SLAM",
+[doi: 10.1109/ICRA.2017.7989602](https://doi.org/10.1109/ICRA.2017.7989602)
+
 ## [Self-triggered-mechanism](https://github.com/ICRA2017/Self-triggered-mechanism)
 
-<!---
-[![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/Self-triggered-mechanism#tests)
--->
 [![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/Self-triggered-mechanism#tests)
 
 Comparison of self-triggered communication and periodic communication for target tracking involving a group of sensor agents.
@@ -233,9 +239,6 @@ D. De Gregorio and L. Di Stefano, "SkiMap: An efficient mapping framework for ro
 
 ## [smartwatches_apps](https://github.com/ICRA2017/smartwatches_apps)
 
-<!---
-[![Docker logo](docker_not.png "Docker not available")](https://github.com/ICRA2017/smartwatches_apps#run-in-docker)
--->
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/smartwatches_apps.svg)](https://hub.docker.com/r/icra2017/smartwatches_apps/)
 
 E. Coronado, J. Villalobos, B. Bruno and F. Mastrogiovanni, "Gesture-based robot control: Design challenges and evaluation with humans",
