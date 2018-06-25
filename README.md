@@ -270,7 +270,7 @@ J. Leitner et al., "The ACRV picking benchmark: A robotic shelf picking benchmar
 
 ## [VI-MEAN](https://github.com/ICRA2017/VI-MEAN)
 
-[![Docker Build Status](https://img.shields.io/docker/build/icra2017/VI-MEAN.svg)](https://hub.docker.com/r/icra2017/VI-MEAN/)
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/vi-mean.svg)](https://hub.docker.com/r/icra2017/vi-mean/)
 
 Z. Yang, F. Gao and S. Shen, "Real-time monocular dense mapping on aerial robots using visual-inertial fusion",
 [doi: 10.1109/ICRA.2017.7989529](https://doi.org/10.1109/ICRA.2017.7989529)
