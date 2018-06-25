@@ -22,6 +22,16 @@ AutonomyLab's HRI Repository.
 S. Pourmehr, J. Thomas, J. Bruce, J. Wawerla and R. Vaughan, "Robust sensor fusion for finding HRI partners in a crowd",
 [doi: 10.1109/ICRA.2017.7989373](https://doi.org/10.1109/ICRA.2017.7989373)
 
+## [bayesian_object_tracking](https://github.com/ICRA2017/bayesian_object_tracking)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/bayesian_object_tracking.svg)](https://hub.docker.com/r/icra2017/bayesian_object_tracking/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/bayesian_object_tracking#run-in-docker)
+
+3D tracking of rigid objects and robot arm.
+
+C. Garcia Cifuentes, J. Issac, M. Wüthrich, S. Schaal and J. Bohg, "Probabilistic Articulated Real-Time Tracking for Robot Manipulation",
+[doi: 10.1109/LRA.2016.2645124](https://doi.org/10.1109/LRA.2016.2645124)
+
 ## [BPVO](https://github.com/ICRA2017/bpvo)
 
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/bpvo.svg)](https://hub.docker.com/r/icra2017/bpvo/)
