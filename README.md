@@ -219,6 +219,15 @@ Direct SLAM for Rolling-Shutter Cameras.
 J. H. Kim, Y. Latif and I. Reid, "RRD-SLAM: Radial-distorted rolling-shutter direct SLAM",
 [doi: 10.1109/ICRA.2017.7989602](https://doi.org/10.1109/ICRA.2017.7989602)
 
+## [segmap](https://github.com/ICRA2017/segmap)
+
+[![Docker Build Status](https://img.shields.io/docker/build/icra2017/segmap.svg)](https://hub.docker.com/r/icra2017/segmap/)
+
+Map representation based on 3D segments allowing for robot localization, environment reconstruction, and semantics extraction.
+
+R. Dubé, D. Dugas, E. Stumm, J. Nieto, R. Siegwart and C. Cadena, "SegMatch: Segment based place recognition in 3D point clouds",
+[doi: 10.1109/ICRA.2017.7989618](https://doi.org/10.1109/ICRA.2017.7989618)
+
 ## [Self-triggered-mechanism](https://github.com/ICRA2017/Self-triggered-mechanism)
 
 [![tested](https://img.shields.io/badge/matlab-tested-brightgreen.svg)](https://github.com/ICRA2017/Self-triggered-mechanism#tests)
