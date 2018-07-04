@@ -221,6 +221,7 @@ L. Zhou and P. Tokekar, "Active target tracking with self-triggered communicatio
 ## [skimap_ros](https://github.com/ICRA2017/skimap_ros)
 
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/skimap_ros.svg)](https://hub.docker.com/r/icra2017/skimap_ros/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/skimap_ros#run-in-docker)
 
 An efficient mapping framework for robot navigation.
 
