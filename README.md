@@ -7,6 +7,7 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 ## [atom_mapping](https://github.com/ICRA2017/atom_mapping)
 
 [![Docker Build Status](https://img.shields.io/docker/build/icra2017/atom_mapping.svg)](https://hub.docker.com/r/icra2017/atom_mapping/)
+[![Docker Run Instructions](https://img.shields.io/badge/docker-run-brightgreen.svg)](https://github.com/ICRA2017/atom_mapping#run-in-docker)
 
 A novel form of 3D mapping, intended for use in real-time robot navigation and planning.
 
